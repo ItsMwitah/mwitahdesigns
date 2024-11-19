@@ -14,18 +14,21 @@ const About = () => {
     <StyledAbout id="about">
       <SectionSupTitle>ABOUT ME</SectionSupTitle>
       <SectionTitle>
-        HELPING BRANDS TO COMMUNICATE WITH <br /> THEIR AUDIENCE IN ELEGANT WAY
+        HELPING EMAIL MARKETING AGENCIES <br /> DELIVER CONVERSION-DRIVEN DESIGNS
       </SectionTitle>
       <AboutDetails>
         <AboutText>
-          Kumusta! I'm Christian Bolofer, a student from Pangasinan State
-          University — Alaminos City Campus and a Filipino UI/UX and creative
-          graphic designer based in the Philippines. I'm passionate about using
-          my design to improve the lives of others, and I am always eager to
-          learn new things everyday. In my spare time, I enjoy photography,
-          video editing, and spending time with my lovable cats. I am passionate
-          about designing user experiences that are pleasant, meaningful, and
-          powerful.
+          Hi there! I'm Job Mwita, a Freelance Email Designer based in Nairobi, Kenya. 𝗠𝘆 𝗴𝗼𝗮𝗹 𝗶𝘀 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝘀𝘁𝘂𝗻𝗻𝗶𝗻𝗴 𝗲𝗺𝗮𝗶𝗹 𝗱𝗲𝘀𝗶𝗴𝗻𝘀 𝘁𝗵𝗮𝘁 𝗲𝗻𝗴𝗮𝗴𝗲 𝗮𝗻𝗱 𝗰𝗼𝗻𝘃𝗲𝗿𝘁—whether you’re building your brand, boosting sales, or nurturing leads, I’m here to help you captivate your audience and drive results.                                                  
+          <br />
+          <br />
+          🎨 HERE IS HOW I CAN HELP YOU:<br />
+          • Create Templates in Figma or Adobe Photoshop that you can Reuse<br />
+          • Convert your JPEG / Canva / Photoshop / Figma design into Klaviyo / Mailchimp Emails<br />
+          • Create Tutorial Videos 𝗙𝗼𝗿 𝗬𝗼𝘂 or 𝗬𝗼𝘂𝗿 𝗧𝗲𝗮𝗺<br />
+          • Custom NO CODE Klaviyo / Mailchimp Templates that are editable and reusable!<br />
+          • Teach you how to do any of this 𝗬𝗢𝗨𝗥𝗦𝗘𝗟𝗙:)<br />
+          <br />
+          ✅ Ready to enhance your email marketing? Send me an email or DM me on my LinkedIn Profile below!
         </AboutText>
       </AboutDetails>
     </StyledAbout>

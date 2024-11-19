@@ -13,53 +13,53 @@ const Footer = () => {
   return (
     <StyledFooter>
       <StyledFooterMainText
-        href="mailto:christianbolofer@gmail.com"
+        href="mailto:jobmwitah@gmail.com"
         data-hover="Let's talk!"
       >
-        christianbolofer@gmail.com
+        jobmwitah@gmail.com
       </StyledFooterMainText>
       <FooterSocials>
         <Socials>
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://web.facebook.com/iamchrstnblfr"
+            href="https://www.linkedin.com/in/jobmwita/"
           >
-            facebook
+            LinkedIn
           </Social>
           &nbsp;-&nbsp;
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.behance.net/iamchrstnblfr"
+            href="https://x.com/jobmwita_"
           >
-            BEHANCE
+            X/Twitter
           </Social>
           &nbsp;-&nbsp;
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://dribbble.com/ChanBolo/shots"
+            href="https://www.upwork.com/freelancers/~016a7abebc392b8aff"
           >
-            DRIBBBLE
+            Upwork
           </Social>
-          &nbsp;-&nbsp;
-          <Social
+          {/* &nbsp;-&nbsp; */}
+          {/* <Social
             target="_blank"
             rel="noopener noreferrer"
             href="https://www.instagram.com/iamchrstnblfr/"
           >
             INSTAGRAM
-          </Social>
+          </Social> */}
         </Socials>
         <Developed>
-          developed by{" "}
+          work with me on{" "}
           <Developer
             target="_blank"
             rel="noopener noreferrer"
-            href="https://jerichobantiquete.netlify.app/"
+            href="https://www.upwork.com/services/product/marketing-a-conversion-driven-klaviyo-email-design-template-1856307405281016453?ref=project_share"
           >
-            Jericho
+            Upwork
           </Developer>
         </Developed>
       </FooterSocials>

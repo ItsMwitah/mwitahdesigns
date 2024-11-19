@@ -30,7 +30,7 @@ const Navbar = () => {
     <>
       <MobileMenu toggleHandler={toggleHandler} isOpen={toggle} />
       <StyledHeader>
-        <Logo onClick={toTop}>Christian</Logo>
+        <Logo onClick={toTop}>Job Mwita</Logo>
         {toggle ? (
           <Close onClick={toggleHandler} />
         ) : (

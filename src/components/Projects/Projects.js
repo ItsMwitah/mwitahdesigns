@@ -15,7 +15,7 @@ const Projects = () => {
   return (
     <StyledProject id="work">
       <SectionSupTitle>WORKS</SectionSupTitle>
-      <SectionTitle>DISCOVER MY LATEST PROJECTS</SectionTitle>
+      <SectionTitle>DISCOVER MY LATEST DESIGNS</SectionTitle>
       <ProjectsContainer>
         {projectData.map((project) => (
           <ProjectCard key={project.id} {...project} />

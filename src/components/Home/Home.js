@@ -11,28 +11,28 @@ import {
   Title,
 } from "../../styles/Home.styled/Home.styled";
 import { HomeImg } from "../../styles/Home.styled/Home.styled";
-import img from "../../assets/home-image.jpg";
+import img from "../../assets/Banner 12.png";
 
 const Home = () => {
   return (
     <StyledHome id="home">
       <HomeDetails>
-        <SupTitle>Hello, I'm Christian Bolofer!</SupTitle>
+        <SupTitle>Hello, I'm Job Mwita!</SupTitle>
         <Title>
-          UI/UX & Graphic <span>De</span>signer, <br /> based in Philippines.
+          Klaviyo Email <span>De</span>signer, <br /> based in Kenya.
         </Title>
         <SubTitles>
           <Subtitle>
-            <SubtitleRegular>FILIPINO</SubtitleRegular>
+            <SubtitleRegular>KENYA</SubtitleRegular>
             <SubtitleItalic>* AVAILABLE WORLDWIDE</SubtitleItalic>
           </Subtitle>
 
           <Subtitle>
-            <SubtitleRegular>DESIGN · PHOTOGRAPHY</SubtitleRegular>
+            <SubtitleRegular>EMAIL DESIGN · KLAVIYO</SubtitleRegular>
           </Subtitle>
 
           <Subtitle>
-            <SubtitleRegular>(2022) ALL RIGHTS RESERVED</SubtitleRegular>
+            <SubtitleRegular>(2024) ALL RIGHTS RESERVED</SubtitleRegular>
           </Subtitle>
         </SubTitles>
       </HomeDetails>

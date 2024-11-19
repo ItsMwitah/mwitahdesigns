@@ -9,7 +9,9 @@ import {
   StyledProjectCard,
 } from "../../styles/Projects.styled/Projects.styled";
 
-const ProjectCard = ({ name, img, number, category }) => {
+import { Social, Socials } from "../../styles/Footer.styled/Footer.styled";
+
+const ProjectCard = ({ name, img, number, category, link }) => {
   return (
     <StyledProjectCard>
       <ProjectCardImage>
@@ -17,8 +19,12 @@ const ProjectCard = ({ name, img, number, category }) => {
       </ProjectCardImage>
       <ProjectDetails>
         <ProjectName>
-          <ProjectNumber>{number} — </ProjectNumber>
-          {name}
+          <Socials>
+            <Social target="_blank" rel="noopener noreferrer" href={link}>
+              <ProjectNumber>{number} — </ProjectNumber>
+              {name}
+            </Social>
+          </Socials>
         </ProjectName>
         <ProjectCategory>{category}</ProjectCategory>
       </ProjectDetails>

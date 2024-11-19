@@ -18,18 +18,18 @@ export const StyledHome = styled.main`
 export const HomeDetails = styled.div``;
 
 export const HomeImage = styled.div`
-  height: 15rem;
+  height: 100%;
   width: 100%;
   margin: 1.5rem auto 0 auto;
-  background: gray;
+  background: #0ACF83;
 
   @media (min-width: ${({ theme }) => theme.breakpoints.lg}) {
     width: 100%;
-    height: 20rem;
+    height: 100%;
   }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.xs}) {
-    height: 7rem;
+    height: 100%;
   }
 `;
 
