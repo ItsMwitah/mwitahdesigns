@@ -22,7 +22,7 @@ const About = () => {
           <br />
           <br />
           🎨 HERE IS HOW I CAN HELP YOU:<br />
-          • Create Templates in Figma or Adobe Photoshop that you can Reuse<br />
+          • Create Templates in Figma / Canva / Adobe Photoshop that you can Reuse<br />
           • Convert your JPEG / Canva / Photoshop / Figma design into Klaviyo / Mailchimp Emails<br />
           • Create Tutorial Videos 𝗙𝗼𝗿 𝗬𝗼𝘂 or 𝗬𝗼𝘂𝗿 𝗧𝗲𝗮𝗺<br />
           • Custom NO CODE Klaviyo / Mailchimp Templates that are editable and reusable!<br />
