@@ -61,7 +61,7 @@ export const Title = styled.h1`
   font-size: 3rem;
 
   @media (min-width: ${({ theme }) => theme.breakpoints.sm}) {
-    font-size: 3.85rem;
+    font-size: 3.7rem;
   }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.xs}) {

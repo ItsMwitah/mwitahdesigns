@@ -31,17 +31,17 @@ const Footer = () => {
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://x.com/jobmwita_"
+            href="https://www.pinterest.com/jobmwita_/"
           >
-            X/Twitter
+            Pinterest
           </Social>
           &nbsp;-&nbsp;
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.upwork.com/freelancers/~016a7abebc392b8aff"
+            href="https://www.behance.net/jobmwita"
           >
-            Upwork
+            Behance
           </Social>
           {/* &nbsp;-&nbsp; */}
           {/* <Social

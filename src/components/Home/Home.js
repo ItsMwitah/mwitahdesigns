@@ -11,7 +11,7 @@ import {
   Title,
 } from "../../styles/Home.styled/Home.styled";
 import { HomeImg } from "../../styles/Home.styled/Home.styled";
-import img from "../../assets/Banner 12.png";
+import img from "../../assets/LinkedIn Banner.png";
 
 const Home = () => {
   return (
@@ -19,7 +19,7 @@ const Home = () => {
       <HomeDetails>
         <SupTitle>Hello, I'm Job Mwita!</SupTitle>
         <Title>
-          Klaviyo Email <span>De</span>signer, <br /> based in Kenya.
+          Freelance Email <span>De</span>signer, <br /> based in Kenya.
         </Title>
         <SubTitles>
           <Subtitle>
@@ -28,7 +28,7 @@ const Home = () => {
           </Subtitle>
 
           <Subtitle>
-            <SubtitleRegular>EMAIL DESIGN · KLAVIYO</SubtitleRegular>
+            <SubtitleRegular>MAILCHIMP · KLAVIYO</SubtitleRegular>
           </Subtitle>
 
           <Subtitle>
