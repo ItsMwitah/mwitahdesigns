@@ -53,13 +53,13 @@ const Footer = () => {
           </Social> */}
         </Socials>
         <Developed>
-          work with me on{" "}
+          Book My FREE 1:1{" "}
           <Developer
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.upwork.com/services/product/marketing-a-conversion-driven-klaviyo-email-design-template-1856307405281016453?ref=project_share"
+            href="https://calendly.com/jobmwita/60-min-email-design-power-hour"
           >
-            Upwork
+            Power Hour
           </Developer>
         </Developed>
       </FooterSocials>

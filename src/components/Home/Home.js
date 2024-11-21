@@ -11,7 +11,7 @@ import {
   Title,
 } from "../../styles/Home.styled/Home.styled";
 import { HomeImg } from "../../styles/Home.styled/Home.styled";
-import img from "../../assets/LinkedIn Banner.png";
+import img from "../../assets/Hero Image.png";
 
 const Home = () => {
   return (
