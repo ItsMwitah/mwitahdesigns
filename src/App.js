@@ -7,6 +7,7 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer/Footer";
 import { Container } from "./styles/Global/Container.styled";
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
