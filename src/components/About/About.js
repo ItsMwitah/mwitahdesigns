@@ -28,7 +28,7 @@ const About = () => {
           • Custom NO CODE Klaviyo / Mailchimp Templates that are editable and reusable!<br />
           • Teach you how to do any of this 𝗬𝗢𝗨𝗥𝗦𝗘𝗟𝗙:)<br />
           <br />
-          ✅ Ready to enhance your email marketing? Send me an email or DM me on my LinkedIn Profile below!
+          ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour or DM me on my LinkedIn Profile below!
         </AboutText>
       </AboutDetails>
     </StyledAbout>
