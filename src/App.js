@@ -21,8 +21,10 @@ const App = () => {
           <Projects />
         </Container>
         <Footer />
+        <Analytics />
       </>
     </ThemeProvider>
+    
   );
 };
 
