@@ -11,7 +11,7 @@ import {
 
 const Services = () => {
   return (
-    <StyledAbout id="about">
+    <StyledAbout id="services">
       <SectionSupTitle>SERVICES</SectionSupTitle>
       <SectionTitle>
         MY SERVICES

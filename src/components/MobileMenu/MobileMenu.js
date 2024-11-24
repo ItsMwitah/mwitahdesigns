@@ -45,6 +45,16 @@ const MobileMenu = ({ isOpen, toggleHandler }) => {
           work
         </MobileLink>
         <MobileLink
+          onClick={toggleHandler}
+          smooth={true}
+          duration={650}
+          delay={0}
+          spyThrottle={0}
+          to="services"
+        >
+          services
+        </MobileLink>
+        <MobileLink
           onClick={() => {
             toBottom();
             toggleHandler();
