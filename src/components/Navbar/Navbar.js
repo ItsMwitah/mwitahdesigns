@@ -57,7 +57,7 @@ const Navbar = () => {
               spyThrottle={0}
               to="about"
             >
-              Story
+              About
             </NavLink>
           </NavList>
           <NavList>

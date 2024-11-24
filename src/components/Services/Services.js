@@ -14,7 +14,7 @@ const Services = () => {
     <StyledAbout id="services">
       <SectionSupTitle>SERVICES</SectionSupTitle>
       <SectionTitle>
-        MY SERVICES
+        MY SPECIALITY
       </SectionTitle>
       <AboutDetails>
         <AboutText>
