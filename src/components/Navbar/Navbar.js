@@ -73,6 +73,17 @@ const Navbar = () => {
           </NavList>
           <NavList>
             <NavLink
+              smooth={true}
+              duration={650}
+              delay={0}
+              spyThrottle={0}
+              to="services"
+            >
+              Services
+            </NavLink>
+          </NavList>
+          <NavList>
+            <NavLink
               onClick={toBottom}
               smooth={true}
               duration={650}

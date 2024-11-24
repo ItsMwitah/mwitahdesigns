@@ -12,9 +12,9 @@ import {
 const Services = () => {
   return (
     <StyledAbout id="about">
-      <SectionSupTitle>ABOUT ME</SectionSupTitle>
+      <SectionSupTitle>SERVICES</SectionSupTitle>
       <SectionTitle>
-        HELPING EMAIL MARKETING AGENCIES <br /> DELIVER CONVERSION-DRIVEN DESIGNS
+        MY SERVICES
       </SectionTitle>
       <AboutDetails>
         <AboutText>
