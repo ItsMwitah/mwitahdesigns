@@ -21,7 +21,7 @@ export const HomeImage = styled.div`
   height: 100%;
   width: 100%;
   margin: 1.5rem auto 0 auto;
-  background: #0ACF83;
+  background: red;
 
   @media (min-width: ${({ theme }) => theme.breakpoints.lg}) {
     width: 100%;
