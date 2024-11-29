@@ -17,8 +17,8 @@ const Services = () => {
         MY SPECIALITY
       </SectionTitle>
       <AboutDetails>
-        <AboutText>
-          xxx<br />                                                
+        <AboutText>                                              
+          ⭐ EMAIL CAMPAIGNS <br />
           ⭐ EMAIL AUTOMATIONS & FLOWS <br />
           ⭐ SOCIAL MEDIA DESIGN <br />
           ⭐ POP-UP DESIGN <br />
@@ -27,7 +27,7 @@ const Services = () => {
           WHAT'S INCLUDED: <br />
           ⭐ Beautiful, custom email design that makes your brand pop <br />
           ⭐ A healthy balance of imagery + text for deliverability <br />
-          ⭐ One round of design revisions <br />
+          ⭐ Unlimited design revisions <br />
           ⭐ Dark-mode tested and mobile-ready <br />
           ⭐ Implementation into your ESP <br />
           <br />
