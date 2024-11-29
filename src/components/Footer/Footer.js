@@ -31,9 +31,9 @@ const Footer = () => {
           <Social
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.pinterest.com/jobmwita_/"
+            href="https://x.com/jobmwita_"
           >
-            Pinterest
+            Twitter/X
           </Social>
           &nbsp;-&nbsp;
           <Social
