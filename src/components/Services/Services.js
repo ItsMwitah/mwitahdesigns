@@ -20,7 +20,6 @@ const Services = () => {
         <AboutText>                                              
           ⭐ EMAIL CAMPAIGNS <br />
           ⭐ EMAIL AUTOMATIONS & FLOWS <br />
-          ⭐ SOCIAL MEDIA DESIGN <br />
           ⭐ POP-UP DESIGN <br />
           ⭐ SMS & MMS CAMPAIGNS <br />
           <br />
@@ -31,7 +30,7 @@ const Services = () => {
           ⭐ Dark-mode tested and mobile-ready <br />
           ⭐ Implementation into your ESP <br />
           <br />
-          ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour or DM me on my LinkedIn Profile below!
+          ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour
         </AboutText>
       </AboutDetails>
     </StyledAbout>
