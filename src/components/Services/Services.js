@@ -18,29 +18,18 @@ const Services = () => {
       </SectionTitle>
       <AboutDetails>
         <AboutText>
-          EMAIL CAMPAIGNS                                                  
+          xxx<br />                                                
+          ⭐ EMAIL AUTOMATIONS & FLOWS <br />
+          ⭐ SOCIAL MEDIA DESIGN <br />
+          ⭐ POP-UP DESIGN <br />
+          ⭐ SMS & MMS CAMPAIGNS <br />
           <br />
-          <br />
-          EMAIL AUTOMATIONS & FLOWS
-          <br />
-          <br />
-          SOCIAL MEDIA DESIGN
-          <br />
-          <br />
-          POP-UP DESIGN
-          <br />
-          <br />
-          SMS & MMS CAMPAIGNS
-          <br />
-          <br />
-          WHAT'S INCLUDED:
+          WHAT'S INCLUDED: <br />
           ⭐ Beautiful, custom email design that makes your brand pop <br />
           ⭐ A healthy balance of imagery + text for deliverability <br />
           ⭐ One round of design revisions <br />
           ⭐ Dark-mode tested and mobile-ready <br />
           ⭐ Implementation into your ESP <br />
-          ⭐ All design source files in Figma <br />
-          <br />
           <br />
           ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour or DM me on my LinkedIn Profile below!
         </AboutText>
