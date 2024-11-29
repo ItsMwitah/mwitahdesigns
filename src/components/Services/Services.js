@@ -30,7 +30,7 @@ const Services = () => {
           ⭐ Dark-mode tested and mobile-ready <br />
           ⭐ Implementation into your ESP <br />
           <br />
-          ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour
+          ✅ Ready to enhance your email marketing? Book My FREE 1:1 Call
         </AboutText>
       </AboutDetails>
     </StyledAbout>

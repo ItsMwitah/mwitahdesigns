@@ -59,7 +59,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             href="https://calendly.com/jobmwita/60-min-email-design-power-hour"
           >
-            Power Hour
+            Call
           </Developer>
         </Developed>
       </FooterSocials>
