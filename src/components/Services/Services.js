@@ -33,6 +33,15 @@ const Services = () => {
           SMS & MMS CAMPAIGNS
           <br />
           <br />
+          WHAT'S INCLUDED:
+          ⭐ Beautiful, custom email design that makes your brand pop <br />
+          ⭐ A healthy balance of imagery + text for deliverability <br />
+          ⭐ One round of design revisions <br />
+          ⭐ Dark-mode tested and mobile-ready <br />
+          ⭐ Implementation into your ESP <br />
+          ⭐ All design source files in Figma <br />
+          <br />
+          <br />
           ✅ Ready to enhance your email marketing? Book My FREE 1:1 Power Hour or DM me on my LinkedIn Profile below!
         </AboutText>
       </AboutDetails>
