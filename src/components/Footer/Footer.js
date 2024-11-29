@@ -13,10 +13,10 @@ const Footer = () => {
   return (
     <StyledFooter>
       <StyledFooterMainText
-        href="mailto:jobmwitah@gmail.com"
+        href="mailto:hello@mwitahdesigns.online"
         data-hover="Let's talk!"
       >
-        jobmwitah@gmail.com
+        hello@mwitahdesigns.online
       </StyledFooterMainText>
       <FooterSocials>
         <Socials>
