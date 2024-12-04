@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <StyledHome id="home">
       <HomeDetails>
-        <SupTitle>Hello, I'm Job Mwita!</SupTitle>
+        <SupTitle>Hello, I'm Job Mwitah!</SupTitle>
         <Title>
           Freelance Email <span>De</span>signer, <br /> based in Kenya.
         </Title>
